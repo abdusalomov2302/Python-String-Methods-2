@@ -1,0 +1,5 @@
+a=input("matnni kiriting: ")
+b=input("nimani qidirmoqchisiz: ")
+d=int(input("nechanchi indexdan qidiramiz:"))
+c=a.find(b,d)
+print(c)
